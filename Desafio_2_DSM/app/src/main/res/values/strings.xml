@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Nombre de la app -->
+    <string name="app_name">Desafío 2 DSM</string>
+
+    <!-- Títulos de Activities referenciados desde AndroidManifest -->
+    <string name="title_activity_login">Iniciar sesión</string>
+    <string name="title_activity_main">Actividad principal</string>
+    <string name="title_activity_register">Registro</string>
+
+    <!-- Strings usados en fragments / layouts / menús -->
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="first_fragment_label">Primer fragmento</string>
+    <string name="second_fragment_label">Segundo fragmento</string>
+
+    <!-- Strings para Login / Register layouts -->
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="signed">Registrar</string>
+    <string name="don_t_have_an_account_sign_in">¿No tienes cuenta? Regístrate</string>
+    <string name="already_have_an_account_login">¿Ya tienes cuenta? Inicia sesión</string>
+
+    <!-- Mensajes -->
+    <string name="msg_email_password_empty">El correo y la contraseña no pueden estar vacíos.</string>
+    <string name="msg_signup_success">Registro exitoso</string>
+    <string name="msg_signup_failed">Error en el registro</string>
+    <string name="msg_login_success">Inicio de sesión correcto</string>
+    <string name="msg_login_failed">Error al iniciar sesión. Revisa tus credenciales.</string>
+</resources>
