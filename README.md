@@ -1,7 +1,3 @@
-I can help with that. Here is the code for the README, formatted in Markdown, which you can paste directly into your `README.md` file. This version is well-structured and easy to read.
-
------
-
 # **Desafío 2 DSM**
 
 ### Información del Alumno
