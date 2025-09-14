@@ -1,9 +1,24 @@
-# Desafio_2DSM
-Alumno: Eduardo Alfredo Ramirez Torres
-Carnet: RT240549
+I can help with that. Here is the code for the README, formatted in Markdown, which you can paste directly into your `README.md` file. This version is well-structured and easy to read.
 
-# Enlace
--Video demostrativo y APK de la Aplicacion
-*Video demostración:*[Ver Video](https://drive.google.com/file/d/1LwoDbkxU6sfjJ7N4Ra44HWOEoOCKbHce/view?usp=drive_link)
-*Video demostración campos nulos:*[Ver Video](https://drive.google.com/file/d/1yy6yE1YM6d4h8oL_2x1-UIiH37ygKnrg/view?usp=drive_link)
-*APK PROYECTO:* [Descargar APK](https://drive.google.com/file/d/1t1wpArU6uWaOL3XqD2h3SycYT-_fEj8m/view?usp=drive_link)
+-----
+
+# **Desafío 2 DSM**
+
+### Información del Alumno
+
+  * **Nombre:** Eduardo Alfredo Ramirez Torres
+  * **Carnet:** RT240549
+
+-----
+
+## **Enlaces del Proyecto** 💻
+
+Aquí encontrarás el material demostrativo y el archivo APK del proyecto.
+
+  * **Video de Demostración Completa:** [Ver Video](https://www.google.com/search?q=https://drive.google.com/file/d/1LwoDbkxU6sfjJ7N4Ra44HWOEoOCKbHce/view%3Fusp%3Ddrive_link)
+
+  * **Video de Validación de Campos Vacíos:** [Ver Video](https://www.google.com/search?q=https://drive.google.com/file/d/1yy6yE1YM6d4h8oL_2x1-UIiH37ygKnrg/view%3Fusp%3Ddrive_link)
+
+  * **Descargar APK del Proyecto:** [Descargar APK](https://www.google.com/search?q=https://drive.google.com/file/d/1t1wpArU6uWaOL3XqD2h3SycYT-_fEj8m/view%3Fusp%3Ddrive_link)
+
+-----
